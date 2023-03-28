@@ -1,0 +1,1 @@
+.git.gitignore.ideaJava_projectP.imllog.configoutsrctext.txttext5.txt
