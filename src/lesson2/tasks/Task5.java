@@ -1,6 +1,11 @@
 //Напишите метод, который вернет содержимое текущей папки в виде массива строк.
 //Напишите метод, который запишет массив, возвращенный предыдущим методом в файл.
+//Обработайте ошибки с помощью try-catch конструкции. В случае возникновения исключения, оно должно записаться в лог-
+
+//Напишите метод, который вернет содержимое текущей папки в виде массива строк.
+//Напишите метод, который запишет массив, возвращенный предыдущим методом в файл.
 //Обработайте ошибки с помощью try-catch конструкции. В случае возникновения исключения, оно должно записаться в лог-файл.
+
 package lesson2.tasks;
 
 import java.io.File;
@@ -33,23 +38,23 @@ public class Task5 {
         File[] files; // массив файлов
         if (dir.isDirectory()) { // проверка это папка или нет
             files = dir.listFiles();
-            if (files != null) {
-                result = new String[files.length];
+            if (files != null) { // если массив файлов не пустой...
+                result = new String[files.length]; //... то определяем длину строки result как длину массива файлов
                 for (int i = 0; i < files.length; i++) {
                     String name = files[i].getName(); //получаем файл и через точку получаем имя
-                    if (files[i].isFile()) {
-                        System.out.println("\tFile - " + name);
+                    if (files[i].isFile()) { // если элемент это файл, то ...
+                        System.out.println("\tFile - " + name); // ... печатем "File - имя файла", если ...
                     } else {
-                        System.out.println("Directory - " + name);
+                        System.out.println("Directory - " + name); // ... если это не файл, то тогда это директория и печатаем "Directory - имя директории"
                     }
-                    result[i] = name;
+                    result[i] = name; // возвращаем имя i-го элемента
 
                 }
             }
         } else {
-            System.out.println(dir.getName() + " не является папкой");
+            System.out.println(dir.getName() + " не является папкой"); // если это не папка, то печатаем "Имя директории - не является папкой"
         }
 
-        return result;
+        return result; // возвращаем result
     }
 }
