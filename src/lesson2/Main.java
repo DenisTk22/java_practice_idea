@@ -1,7 +1,5 @@
 package lesson2;
 
-import lesson2.homework.Hwork2;
-
 public class Main {
     public static void main(String[] args) throws Exception { // psvn
         //System.out.println(Task1.printString(10, '+', '_'));
@@ -10,7 +8,8 @@ public class Main {
         //Домашние задачи от второго урока:
         //int[] unsorted_array = new int[] { 2, 1, -3, 5, 8, 1 };
         //Hwork1.bubble_sort(unsorted_array);
-        Hwork2.jurnal();
+        //Hwork2.jurnal();
+
 
         }
 }
