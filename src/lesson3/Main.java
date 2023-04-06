@@ -26,10 +26,7 @@ public class Main {
         //---Homework
         //Hwork3_2.deleteChet();
         //Hwork3_3.mathList();
-
-        //differenceArray (List fArr, List sArr):
-
-
+        //Hwork3_4:
         List<Integer> A = Hwork3_4.arrayA();
         List<Integer> B = Hwork3_4.arrayB();
         System.out.println("First  Array: " + A);
@@ -37,8 +34,7 @@ public class Main {
 
         List<Integer> D = differenceArray((ArrayList) A, (ArrayList) B);
         System.out.println("Difference (First - Second): " + D);
-//        Hwork3_4.arrayA();
-//        Hwork3_4.arrayB();
+
         List<Integer> Sm = simDifferenceArray((ArrayList) A, (ArrayList) B);
         System.out.println("Simmetric Difference: " + Sm);
     }

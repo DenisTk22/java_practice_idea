@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ddd5549-025c-4c7b-91ad-218324a020ad" name="Changes" comment="Добавлены задачи домашнего задания ко второму семинару">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/tasks/lecture2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Hwork3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Hwork3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homework3/Hwork3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/tasks/OurNewStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/tasks/Task0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/tasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/tasks/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
+    <list default="true" id="1ddd5549-025c-4c7b-91ad-218324a020ad" name="Changes" comment="Добавлены задачи домашнего задания к третьему семинару">
       <change beforePath="$PROJECT_DIR$/src/lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/tasks/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/tasks/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/homework3/Hwork3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/homework3/Hwork3_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,12 +159,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680437193019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавлены задачи домашнего задания к третьему семинару">
+      <created>1680727644542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680727644542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены задачи второго семинара" />
     <MESSAGE value="Добавлены задачи домашнего задания ко второму семинару" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены задачи домашнего задания ко второму семинару" />
+    <MESSAGE value="Добавлены задачи домашнего задания к третьему семинару" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены задачи домашнего задания к третьему семинару" />
   </component>
 </project>

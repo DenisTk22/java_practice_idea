@@ -17,7 +17,6 @@ public class Hwork3_4 {
         for (int i = 0; i < 5; i++) {
             arrayFirst.add(randomF.nextInt(10));
         }
-        //System.out.println("First  Array: " + arrayFirst);
 
         return new ArrayList(arrayFirst);
     }
@@ -29,13 +28,13 @@ public class Hwork3_4 {
         for (int i = 0; i < 5; i++) {
             arraySecond.add(randomS.nextInt(10));
         }
-        //System.out.println("Second Array: " + arraySecond);
+
         return new ArrayList(arraySecond);
     }
 
 
     //Получаем разницу массивов А и В
-    public static ArrayList differenceArray (ArrayList fArr, ArrayList sArr){  //differenceArray / (ArrayList fArr, ArrayList sArr)
+    public static ArrayList differenceArray (ArrayList fArr, ArrayList sArr){
 
         List<Integer> arrayDiff = new ArrayList<>();
         int count = 0;
