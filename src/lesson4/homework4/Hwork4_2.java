@@ -6,23 +6,28 @@
 package lesson4.homework4;
 
 import java.util.LinkedList;
-import java.util.Queue;
 
 public class Hwork4_2 {
-    public static void queue () {
-        //Queue<String> ll = new LinkedList<>();
-        Queue<String> q = new LinkedList();
 
-        q.add("First");
-        q.add("Second");
-        q.add("3");
-        q.add("4");
-        System.out.println(q);
-        q.add("5");
-        System.out.println(q);
-        System.out.println(q.poll());
-        System.out.println(q);
-        System.out.println(q.peek());
-        System.out.println(q);
+    //private LinkedList<String> ll = new LinkedList<>();
+
+//    ll.add("First");
+//        ll.add("Second");
+//        ll.add("3");
+//        ll.add("4");
+//        System.out.println(ll);
+
+    public static void enqueue(LinkedList<String> list){
+        list.addLast(list.element());
+        System.out.println(list);
+    }
+
+    public static String dequeue(LinkedList<String> list){
+        return list.pollFirst();
+
+    }
+
+    public static String first(LinkedList<String> list){
+        return list.getFirst();
     }
 }

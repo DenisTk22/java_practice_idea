@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ddd5549-025c-4c7b-91ad-218324a020ad" name="Changes" comment="Отладка домашнего задания к третьему семинару">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_3.java" afterDir="false" />
+    <list default="true" id="1ddd5549-025c-4c7b-91ad-218324a020ad" name="Changes" comment="Добавление домашнего задания к четвертому семинару">
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/tasks/Task0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.tasks.lecture2" />
+    <configuration name="Hwork5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.homework5.Hwork5_2" />
       <module name="Java_projectP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.tasks.*" />
+          <option name="PATTERN" value="lesson5.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Main" />
       <module name="Java_projectP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,10 +128,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.lesson4.Main" />
+        <item itemvalue="Application.Hwork5_2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Hwork4_2" />
         <item itemvalue="Application.Hwork4_1" />
-        <item itemvalue="Application.lesson3.Main" />
-        <item itemvalue="Application.lecture2" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680785184402</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавление домашнего задания к четвертому семинару">
+      <created>1680807401126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680807401126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +194,7 @@
     <MESSAGE value="Добавлены задачи домашнего задания ко второму семинару" />
     <MESSAGE value="Добавлены задачи домашнего задания к третьему семинару" />
     <MESSAGE value="Отладка домашнего задания к третьему семинару" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отладка домашнего задания к третьему семинару" />
+    <MESSAGE value="Добавление домашнего задания к четвертому семинару" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление домашнего задания к четвертому семинару" />
   </component>
 </project>

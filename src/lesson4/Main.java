@@ -1,5 +1,10 @@
 package lesson4;
 
+import lesson4.homework4.Hwork4_2;
+
+import java.util.LinkedList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         // Task3.run();
@@ -16,7 +21,17 @@ public class Main {
 
         //---Homework
         //Hwork4_1.revers();
-        //Hwork4_2.queue();
+        List<String> ll = new LinkedList<>();
+
+        ll.add("First");
+        ll.add("Second");
+        ll.add("3");
+        ll.add("4");
+
+        Hwork4_2.enqueue((LinkedList<String>) ll);
+
+        System.out.println(Hwork4_2.dequeue((LinkedList<String>) ll));
+        System.out.println(Hwork4_2.first((LinkedList<String>) ll));
 
         }
 
