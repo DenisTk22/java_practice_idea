@@ -28,7 +28,16 @@ public class Task0 {
 
         }
     }
-
+//Set set = hm.entrySet();
+//
+//      // Получаем итератор
+//      Iterator i = set.iterator();
+//
+//      // Отображение элементов
+//      while(i.hasNext()) {
+//         Map.Entry me = (Map.Entry)i.next();
+//         System.out.print(me.getKey() + ": ");
+//         System.out.println(me.getValue());
 
 
 

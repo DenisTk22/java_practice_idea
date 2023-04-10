@@ -4,16 +4,12 @@
 
 package lesson5.homework5;
 
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 
 public class Hwork5_2 {
     public static void main(String[] args) {
         List<String> employees = new ArrayList<>();
-        Map<String, Integer> nameToCount = new TreeMap<>();
+        Map<String, Integer> nameToCount = new HashMap<>();
 
         employees.add("Иван Иванов");
         employees.add("Светлана Петрова");
@@ -51,17 +47,5 @@ public class Hwork5_2 {
             }
         }
         System.out.println(nameToCount);
-
-
-
-
-
-        //Map<String,Integer> map = new TreeMap<String,Integer>();
-        //    map.put("A", 3);
-        //    map.put("B", 2);
-        //    map.put("C", 1);
-        //    System.out.println(map);
-        //    // prints "{A=3, B=2, C=1}"
-        //    System.out.println(entriesSortedByValues(map));
     }
 }

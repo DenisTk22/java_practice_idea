@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ddd5549-025c-4c7b-91ad-218324a020ad" name="Changes" comment="Добавление домашнего задания к четвертому семинару">
-      <change afterPath="$PROJECT_DIR$/src/lesson5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/oop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/tasks/Task0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/homework4/Hwork4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/homework5/Hwork5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson5/tasks/Task0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/tasks/Task0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
       <recent name="lesson3.tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson4.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Hwork4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson4.homework4.Hwork4_1" />
       <module name="Java_projectP" />
@@ -127,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson4.Main" />
-        <item itemvalue="Application.Hwork5_2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hwork5_2" />
+        <item itemvalue="Application.lesson4.Main" />
         <item itemvalue="Application.Hwork4_2" />
         <item itemvalue="Application.Hwork4_1" />
       </list>
@@ -186,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680807401126</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Добавление домашнего задания к четвертому семинару">
+      <created>1681069250601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681069250601</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
